@@ -22,9 +22,9 @@
    <artifactId>tomcat-maven-plugin</artifactId>
    <version>1.1</version>
    <configuration>
-      <url>http://localhost:8085/manager/text</url>
+      <url>http://localhost:8090anager/text</url>
       <server>TomcatServer</server>
-      <path>/leenaitwebapp</path>
+      <path>/my-first-webapp</path>
    </configuration>
   </plugin>
  </plugins>
